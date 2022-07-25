@@ -66,8 +66,8 @@
   <a href="https://www.facebook.com/FGW.GHz/photos/286332516660053">
     <img alt="Greenwich Coding Challenge" title="Greenwich Coding Challenge" src="https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/241225717_286332466660058_8848322911513175888_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=_IEsRyuYhLsAX84NmbU&_nc_ht=scontent.fdad3-4.fna&oh=00_AT_Z-yqI5RtUgrIdly-Eq_AuQbHJhM88_Hw4lNPPCDJ--w&oe=62E3C479" width="300px" />
   </a>
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
-    <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
+  <a href="#">
+    <img alt="SCRUM" title="SCRUM" src="https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/295654038_1595726437495759_2858949229664141518_n.jpg?stp=cp1_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=PPiP2Dvl1UMAX9udPuR&_nc_ht=scontent.fdad3-4.fna&oh=00_AT_n0pv-ewF1nFNNqNegI1RF4WFkEJsQAgb6kMil_OMoLQ&oe=62E31408" width="300px" />
   </a>
 </p>
 
